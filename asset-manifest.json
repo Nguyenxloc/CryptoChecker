@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/autoair/static/css/main.f141fb55.css",
+    "main.js": "/autoair/static/js/main.da9e15c9.js",
+    "static/js/787.7dd34774.chunk.js": "/autoair/static/js/787.7dd34774.chunk.js",
+    "index.html": "/autoair/index.html",
+    "main.f141fb55.css.map": "/autoair/static/css/main.f141fb55.css.map",
+    "main.da9e15c9.js.map": "/autoair/static/js/main.da9e15c9.js.map",
+    "787.7dd34774.chunk.js.map": "/autoair/static/js/787.7dd34774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f141fb55.css",
+    "static/js/main.da9e15c9.js"
+  ]
+}
